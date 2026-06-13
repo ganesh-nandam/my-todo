@@ -2,7 +2,8 @@
 
 A sleek, responsive, and dynamic To-Do List application built with pure HTML, CSS, and JavaScript. This project features full CRUD functionality, real-time data persistence, and a modern UI with dynamic priority tagging and statistic tracking.
 
-*Live demo:* **([ganesh-nandam.github.io/my-todo/])**
+ ✨  **Live demo:**
+      **([https://ganesh-nandam.github.io/my-todo/])**
 
 ## 🚀 Features
 
@@ -34,6 +35,3 @@ To get a local copy up and running, follow these simple steps:
 --> 1)Clone the repository:  git clone [https://github.com/your-username/interactive-todo-list.git](https://github.com/your-username/interactive-todo-list.git)
 --> 2)Navigate to the project folder: cd interactive-todo-list
 --> 3)Launch the application: Simply double click the index.html file to open it directly in any modern web browser.
-
-Acknowledgments: 
---Inspired by the implementation featured on the **Codynn stream**(youtube channel).
