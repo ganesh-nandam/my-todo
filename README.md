@@ -2,7 +2,7 @@
 
 A sleek, responsive, and dynamic To-Do List application built with pure HTML, CSS, and JavaScript. This project features full CRUD functionality, real-time data persistence, and a modern UI with dynamic priority tagging and statistic tracking.
 
-Live demo: 
+*Live demo:* **([ganesh-nandam.github.io/my-todo/])**
 
 ## 🚀 Features
 
